@@ -24,7 +24,14 @@ Currently improving my skills in React and modern JavaScript.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 
-## 📫 Contact
+## 📫 Contact Me
 
-- GitHub
-- LinkedIn
+<a href="linkedin.com/in/kimia-mousavi-6387002a6">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="20"/>
+</a> LinkedIn
+
+<br>
+
+<a href="mailto:kimiamousavi1996@email.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="20"/>
+</a> your@email.com
