@@ -1,11 +1,6 @@
 # 👋 Hi, I'm Kimia
 
-![Front-End Developer](https://img.shields.io/badge/Front--End%20Developer-181717?style=for-the-badge)
 ![Front-End Developer](https://img.shields.io/badge/Front--End%20Developer-white?style=for-the-badge&logoColor=black&color=white)
-![Front-End Developer](https://img.shields.io/static/v1?label=&message=Front--End%20Developer&color=white&style=for-the-badge)
-<img src="https://img.shields.io/static/v1?label=&message=Front--End%20Developer&style=for-the-badge&color=white&labelColor=white" />
-![Front-End Developer](https://img.shields.io/static/v1?label=&message=Front--End%20Developer&color=white&style=for-the-badge)
-
 
 I'm passionate about building responsive and user-friendly web applications.  
 Currently improving my skills in React and modern JavaScript.
