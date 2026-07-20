@@ -28,10 +28,12 @@ Currently improving my skills in React and modern JavaScript.
 
 <a href="https://www.linkedin.com/in/kimia-mousavi-6387002a6/" target="_blank">
   <img src="https://img.icons8.com/color/48/linkedin.png" width="20" alt="LinkedIn"/>
-</a> **LinkedIn**
+  LinkedIn
+</a>
 
 <br>
 
 <a href="mailto:kimiamousavi1996@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="20" alt="Email"/>
-</a> **kimiamousavi1996@gmail.com**
+  kimiamousavi1996@gmail.com
+</a>
